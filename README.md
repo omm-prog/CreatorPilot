@@ -204,6 +204,14 @@ Open `http://127.0.0.1:5173` in your browser.
 
 ---
 
+## 🌟 Live Demo URLs
+
+- **Live Application (Frontend):** [https://creatorpilot-agent.netlify.app](https://creatorpilot-agent.netlify.app)
+- **Live Production API (Backend):** [https://creatorpilot-mly5.onrender.com](https://creatorpilot-mly5.onrender.com)
+- **API Health Check:** [https://creatorpilot-mly5.onrender.com/health](https://creatorpilot-mly5.onrender.com/health)
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
