@@ -3,7 +3,9 @@ import json
 import logging
 from typing import List, Optional
 from google import genai
+# pyrefly: ignore [missing-import]
 from google.genai import types
+# pyrefly: ignore [missing-import]
 from google.genai.errors import ClientError
 
 from config import GEMINI_API_KEY

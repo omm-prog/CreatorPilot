@@ -122,7 +122,7 @@ VITE_API_URL=http://localhost:8000
 
 ### 1. Clone & Prepare Repository
 ```bash
-git clone https://github.com/your-username/CreatorPilot.git
+git clone https://github.com/omm-prog/CreatorPilot.git
 cd CreatorPilot
 ```
 
