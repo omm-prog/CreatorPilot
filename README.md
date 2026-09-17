@@ -1,5 +1,7 @@
 # CreatorPilot 🎬🤖
 
+🚀 **Live Demo:** [creatorpilot-agent.netlify.app](https://creatorpilot-agent.netlify.app/)
+
 **CreatorPilot** is an autonomous AI Production Agent and virtual Director for YouTube creators, built for the **Agentic Cinema Hackathon** using **Google's Gemini / Google ADK** and the **Parallel Search API**. Instead of acting as a generic text generator, CreatorPilot evaluates a creator's real-world constraints—such as budget in Indian Rupees (₹), available filming hours, crew size, camera equipment, shooting locations, and experience level—and autonomously determines whether live web research is needed, executing real-time Parallel Search queries to generate a feasible, time-blocked production blueprint.
 
 ---
